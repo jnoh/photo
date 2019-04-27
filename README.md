@@ -1,1 +1,1 @@
-![somewhere far away](./image.jpeg)
+![a rectangle suspended in space](./image.jpeg)
